@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The politique takinge of Zutphen skonce, the vvinning of the towne, and beleagering of Deuenter With the honourable enterprise of Sir Roger VVilliams Knight, performed vpon a thousande and two hundred of the enemies souldiours or Leagors, lying at Cinque Saunce, nine leagues from Deepe. Who were all put to the sworde, vpon Thursday before Whitsonday last, beeing the twentie day of May. 1591. Seene and allowed.</title>
+            <title>Politique takinge of Zutphen skonce, the winning of the towne, and beleagering of Deventer.</title>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16472</idno><idno type="EEBO-CITATION">99842038</idno>
+  <idno type="VID">176924</idno>
+  <idno type="EEBO-PROQUEST">2240896218</idno>
+  <idno type="STC">STC 26134.5</idno>
+  <idno type="STC">ESTC S106320</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99842038e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16472)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176924)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 719:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The politique takinge of Zutphen skonce, the vvinning of the towne, and beleagering of Deuenter With the honourable enterprise of Sir Roger VVilliams Knight, performed vpon a thousande and two hundred of the enemies souldiours or Leagors, lying at Cinque Saunce, nine leagues from Deepe. Who were all put to the sworde, vpon Thursday before Whitsonday last, beeing the twentie day of May. 1591. Seene and allowed.</title>
+                  <title>Politique takinge of Zutphen skonce, the winning of the towne, and beleagering of Deventer.</title>
+               </titleStmt>
+               <extent>[3]-23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Charlwood, and are to be solde by William Wright,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1591.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Identified as STC 26134a on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Williams, Roger, --  Sir, 1540?-1595 --  Early works to 1800.</term>
+               <term type="geographic_name">Zutphen (Netherlands) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Deventer, Netherlands --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176924:1"/>
+            <pb facs="tcp:176924:1"/>
+            <p>THE Politique takinge of <hi>Zutphen</hi> Skonce, the vvinning of the Towne, and beleagering of <hi>Deuenter.</hi>
+            </p>
+            <p>With the honourable enterprise of Sir <hi>Roger VVilliams <hi>Knight, performed vpon a thousande and two hundred of the Enemies souldiours or Leagors, lying at</hi>
+               </hi> Cinque Saunce, <hi>nine leagues from</hi> Deepe.</p>
+            <p>
+               <hi>Who were all put to the sworde, vpon Thurs<g ref="char:EOLhyphen"/>day before Whitsonday last, béeing the twentie day of May. 1591.</hi>
+            </p>
+            <p>Seene and allowed.</p>
+            <p>AT LONDON, Printed by <hi>Iohn Charlwood,</hi> and are to be solde by William Wright.</p>
+            <p>1591.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:176924:2"/>
+            <pb n="5" facs="tcp:176924:2"/>
+            <head>¶ The politique taking of <hi>Zutphen</hi> Skonce, &amp; the beleagering of the Towne of <hi>Deuenter.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE honourable seruices that the right worship<g ref="char:EOLhyphen"/>ful sir <hi>Frauncis Vere</hi> hath performed since his be<g ref="char:EOLhyphen"/>ing in the <hi>Lowe Coun<g ref="char:EOLhyphen"/>tries,</hi> hath beene such as hath eternized his re<g ref="char:EOLhyphen"/>nowne, and runge the fame of his name, not onely into the eares of his freends and fauou<g ref="char:EOLhyphen"/>rers, but also into the hearts of his enemies, now remaining in those forraine parts where he is Gouernour, to theyr great terror, &amp; hys vnspeakable comfort. In remembrance of whose braue seruices performed, forasmuch as I haue nowe to deliuer publiquely the pol<g ref="char:EOLhyphen"/>litique
+<pb n="6" facs="tcp:176924:3"/> attempt of the saide woorthy Knight, lately atchiued, so will I not also be vnmind<g ref="char:EOLhyphen"/>full, to record some of the rare seruices which hee hath before to his great commendations effected. As first, his finishing of <hi>Raies</hi> skonce left vnfinished by sir <hi>Martin skinck,</hi> next, hys great and honourable exployt, which he vn<g ref="char:EOLhyphen"/>dertooke for the victualing of the Towne of <hi>Barke,</hi> where in valiant manner hee greatlie impayred the strength and power of the Prince of <hi>Parma,</hi> and slewe with the sworde, drowned, &amp; tooke prysoners, to the number of sixe thousand persons: albeit he had but a smal company in respect of that huge Army. But God was the worker of this great won<g ref="char:EOLhyphen"/>der, by causing the Spaniards to fall out with the Italians, and so of themselues going toge<g ref="char:EOLhyphen"/>ther by the eares, ran confusedly vppon the Rereward, where they thought to haue foūd a company of feeble Duchmen: but heere (farre contrary to theyr expectation,) they founde planted this valiant Knight, with hys troupes of couragious Englishmen, who to<g ref="char:EOLhyphen"/>gether with some ayde, wrought the confusi<g ref="char:EOLhyphen"/>on
+<pb n="7" facs="tcp:176924:3"/> of so many as is aforesaid.</p>
+            <p>In which conflict there was slaine at that time, one Marquesse, and sundry other Cap<g ref="char:EOLhyphen"/>taines of great valour &amp; credite, which were on the enemies side.</p>
+            <p>After this hee tooke the Towne of <hi>Breda,</hi> by great pollicie, moneying the Gouernours thereof, and hath since subdued many other Townes.</p>
+            <p>I may not forget the Towne of <hi>Buricke,</hi> nor <hi>Graue Skonce,</hi> where hee behaued him<g ref="char:EOLhyphen"/>selfe, to the high commendation of all Eng<g ref="char:EOLhyphen"/>lish Souldiors. <hi>Hemarte</hi> and <hi>Haile, Steenbar<g ref="char:EOLhyphen"/>gen,</hi> and many other Townes: all these hee hath Souldiour-like attempted to winne with the sworde, and gotten them since hys going ouer: still ioyning his forces, power, &amp; pollicies, wyth the powers of the <hi>Graue van Mawrice,</hi> whose strength more and more doth daily increase, whose valiancie and for<g ref="char:EOLhyphen"/>wardnes is such and so great, as may be in a<g ref="char:EOLhyphen"/>ny man at armes, that intendeth to be reuen<g ref="char:EOLhyphen"/>ged vpon those trayterous people, for the in<g ref="char:EOLhyphen"/>nocent bloodshed and vntimely death of his
+<pb n="8" facs="tcp:176924:4"/> deceased Father.</p>
+            <p>A notable exployt had beene gyuen by thys valiant Knight, &amp; by him a valiant peece of seruice had beene performed vppon the Towne of <hi>Dunkerke,</hi> to the ouerthrowe of the trecherous aduersaries therein, had not the same beene preuented by some secret in<g ref="char:EOLhyphen"/>telligence, which was giuen vnto them con<g ref="char:EOLhyphen"/>cerning the same.</p>
+            <p>Nowe this valiant Gouernour sir <hi>Frauncis Vere,</hi> seeing the Skonce of <hi>Zutphen</hi> held very strongly, &amp; hauing by sundry meanes sought to win it, as well by force as pollicie, (wherein though he failed) yet purposed he to obtaine it by one means or other: wherupon with an vndaunted resolution, hee determined to put this practise in proofe, which in the end God be thanked, came to good successe. He cau<g ref="char:EOLhyphen"/>sed sundry of his souldiours, secretly to be ap<g ref="char:EOLhyphen"/>parrelled in the habite of poore Market folks, as well of men as women, some dryuing of Oxen, some of Kine, some of sheepe, some of Hogs, and some driuing of Goates.</p>
+            <p>These people thus being driuing of Cattle,
+<pb n="9" facs="tcp:176924:4"/> were pursued &amp; chased by some Souldiours, as though they had beene their enemies, by meanes whereof the Cattle and poore people were receiued by the enemie, intending to succour thē, while without any suspition those poore people being couragious souldiors, ha<g ref="char:EOLhyphen"/>uing got the gates opened, seazed vppon the Keepers thereof, so that in the meane time the other issued, and immediatly sir <hi>Frauncis Vere</hi> folowed with a sufficient troupe of hors<g ref="char:EOLhyphen"/>men, and foote. This was doone vpon the 13. of May last past, at what time hee tooke the Skonse, and nowe enioyeth the same peacea<g ref="char:EOLhyphen"/>bly without any losse of men.</p>
+            <p>On the 15. day of May folowing, the Coun<g ref="char:EOLhyphen"/>tie <hi>Maurice,</hi> sonne to the renowned for Chi<g ref="char:EOLhyphen"/>ualry <hi>VVilliam</hi> of <hi>Nassaw</hi> Prince of <hi>Orange,</hi> be<g ref="char:EOLhyphen"/>ing accompanied with sir <hi>Frauncis Vere,</hi> be<g ref="char:EOLhyphen"/>sieged the towne of <hi>Zutphen,</hi> with nine thou<g ref="char:EOLhyphen"/>sand foote-men, and seauenteene hundred horse-men.</p>
+            <p>On the 18. day of May, there was planted thirty &amp; sixe, (others say but twenty &amp; sixe) peeces for battry against the wals of <hi>Zutphen,</hi>
+               <pb n="10" facs="tcp:176924:5"/> al which they did discharge som two or three times, wherupon the Townsmen fell to parly and composition, so that vpon the 19. day of May, the Towne was yeelded vppe into the hands of the Countie <hi>Mawrice,</hi> vpon condi<g ref="char:EOLhyphen"/>tion, that the Souldiours in the Towne, being on the enemies side, might haue theyr lyues preserued, that they might not goe to <hi>Deuen<g ref="char:EOLhyphen"/>ter,</hi> but to depart with bag and baggage, some of them offering to serue the Countie <hi>Maw<g ref="char:EOLhyphen"/>rice,</hi> which he graciously accepted, offering vnto them all, that those who woulde serue hym, should haue entertainment, wherupon one Ensigne of Wallouns tarried in hys ser<g ref="char:EOLhyphen"/>uice, with some of the enemies chiefest Cap<g ref="char:EOLhyphen"/>taines.</p>
+            <p>Nowe when the Countie <hi>Mawrice</hi> had obtained the Towne of <hi>Zutphen,</hi> he fortified &amp; replenished the same with Souldiours, out of hys owne troupes, and leauing it well &amp; in good order, hee departed the next day to<g ref="char:EOLhyphen"/>wards <hi>Deuenter,</hi> except some small number, who went to besiege a Castle, which they tooke, and then returned to the Campe.</p>
+            <pb n="11" facs="tcp:176924:5"/>
+            <p>There is great likeli-hood that <hi>Deuenter</hi> is by this time yeelded: for such is the valiant courage of the Countie <hi>Mawrice,</hi> &amp; sir <hi>Fran<g ref="char:EOLhyphen"/>cis Vere,</hi> that doubtlesse by Gods assistance, they do not pretend to raise theyr siege, vntil they haue obtained it, and constrained them to yeeld it vp, with speede.</p>
+            <p>At the planting of the Ordinance, there was a great mishap befell vppon the Countie <hi>Mawrice</hi> side, for the valiant County of <hi>Ober<g ref="char:EOLhyphen"/>steyn</hi> was slayne.</p>
+            <p>Thus haue you heard particularly discour<g ref="char:EOLhyphen"/>sed, the true newes of the taking of <hi>Zutphen</hi> Skonce, and of the yeelding of the Towne, with the besieging of <hi>Deuenter,</hi> where the Captaines and Gouernours nowe in siege a<g ref="char:EOLhyphen"/>gainst it, are not onely couragious, but also such as do put theyr whole ttust in the liuing God, and therfore are resolued that hee wyll preserue them, that hee will strengthen &amp; de<g ref="char:EOLhyphen"/>fende them against the strength of the ene<g ref="char:EOLhyphen"/>mie, who though hee be neuer so strong, yet God is alwaies stronger then he, as appeareth
+<pb n="12" facs="tcp:176924:6"/> by thys ensuing discourse of sir <hi>Roger VVilli<g ref="char:EOLhyphen"/>ams,</hi> whose valour hath beene oft-times tryed in the face of the enemie: in which Historie appeareth, that if strength of men might haue preuailed, it had beene vnpossible for him to haue escaped with lyfe. The God of heauen prosper them all, graunt them to ouer come theyr aduersaries, and send thē to Eng<g ref="char:EOLhyphen"/>land with trymphant victory.</p>
+            <closer>Amen.</closer>
+         </div>
+         <div type="text">
+            <pb n="13" facs="tcp:176924:6"/>
+            <head>THE HONOVRABLE Enterprise of Sir <hi>Roger Williams Knighte.</hi>
+            </head>
+            <argument>
+               <p>Performed vpon a thousande and two hun<g ref="char:EOLhyphen"/>dred of the Enemies Souldiours, or Leagors, lying at <hi>Cinque Saunce,</hi> nine leagues from <hi>Deepe.</hi>
+               </p>
+               <p>
+                  <hi>VVho were all put to the sword, vpon Thursday before Whitsunday last, beeing the xx. day of May. Anno.</hi> 1591.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">T</seg>HE honorable attēpts which that renowned Knight Sir <hi>Roger VVil<g ref="char:EOLhyphen"/>liams,</hi> hath sundry times made vpon the enemy, not onely by entering by force of Armes into his strongest holdes, but also in withstanding and resisting his mightie and huge multitude of Armed men, that haue sundry times to theyr great losse, assaulted, &amp; made offers for entrance into such Townes and holds wher<g ref="char:EOLhyphen"/>of hee hath had charge: hath giuen mee iust
+<pb n="14" facs="tcp:176924:7"/> cause to publish this hys most laudable enter<g ref="char:EOLhyphen"/>prise, which was lately performed against two Regiments of Souldiours, both hardie and skilfull, (although on the enemies side,) who hauing a wrong cause in hand, are ouer<g ref="char:EOLhyphen"/>thrown by the outstretched Arme of the Al<g ref="char:EOLhyphen"/>mighty, the one Regiment appertaining to <hi>Lorrayne,</hi> the other to <hi>Mounsier de la Lownde.</hi>
+            </p>
+            <p>These two Regiments came from <hi>Roan,</hi> and planted thēselues at <hi>Cinque Saunce,</hi> sup<g ref="char:EOLhyphen"/>posing there to inhabite, and to surprise and gette victuals for theyr maintenaunce. To this end they fortified themselues rounde a<g ref="char:EOLhyphen"/>bout with <hi>Barricadoes,</hi> which kinde of fortifi<g ref="char:EOLhyphen"/>cation is very strong: yet for that it may the more easily be vnderstoode of the simple sort of people, I haue thought good to describe it heere in more plaine manner, that they may as well know and vnderstand it, as those that haue beene continually trayned vppe in Martiall exercises.</p>
+            <p>Thys kinde of fortification called the <hi>Bar<g ref="char:EOLhyphen"/>ricadoes,</hi> is Pipes, Hogs-heads, Wine vessels, and such like, which beeing filled and harde
+<pb n="15" facs="tcp:176924:7"/> rammed with earth, are sette close one by one, each by other, and one vppon another, which is of such force and weight, that they can not be easily remooued or entred into, but standeth as strong as any Mudde-wall, whereinto shotte of verie great force cannot enter but recoyle: thus were they enclosed, as is aforesaide, within this <hi>Barricadoes,</hi> and none durst passe by them for feare of theyr liues.</p>
+            <p>But these two Regiments, for theyr better safetie, omitted not the hammering in theyr heades, howe they might find meanes for the same: and so consented, that for theyr more assurance, they placed a troupe of hors<g ref="char:EOLhyphen"/>men in a Wood, distant two leagues off from the place where they had fortified thēselues, the same Wood beeing full in the passage or high-way from <hi>Deepe,</hi> supposing therby, that if any resistance shoulde come from <hi>Deepe,</hi> (which they greatly doubted) that some of those horse-men might retyre backe, onelie to giue intelligence vnto the two Regiments, whereby they might not onely come them<g ref="char:EOLhyphen"/>selues,
+<pb n="16" facs="tcp:176924:8"/> for the surprysing of the power, but thereby also procure a fresh supply frō <hi>Roan,</hi> to backe them if occasion should serue.</p>
+            <p>The Gouernour of <hi>Deepe,</hi> named <hi>Moun<g ref="char:EOLhyphen"/>sier de Chartres,</hi> with Sir <hi>Roger VVilliams,</hi> who lately came thether, and being there at that present, hauing receiued intelligence of the fortification, and intent of the Enemie, to<g ref="char:EOLhyphen"/>gether with the great strength of the <hi>Bar<g ref="char:EOLhyphen"/>ricadoes,</hi> resolued speedily to depart from <hi>Deepe,</hi> which they did the same euening, ta<g ref="char:EOLhyphen"/>king theyr iourney towardes <hi>Cinque Saunce,</hi> which is nine Leagues from thence. Thys was on Wednesday in the euening, before Whitsonday last, and trauailing all the night, came to the Wood no the next morning be<g ref="char:EOLhyphen"/>ing Thursday, hauing with them foure hun<g ref="char:EOLhyphen"/>dred French-men, &amp; three hundred Eng<g ref="char:EOLhyphen"/>lishmen, where they found a troupe of hors<g ref="char:EOLhyphen"/>men to resist theyr passage, vpon whom they made a very fierce assault: but the English<g ref="char:EOLhyphen"/>men gaue such a hote charge vpō them, that all those horse-men were soone surprised &amp; slaine, so that none of thē escaped any waie,
+<pb n="17" facs="tcp:176924:8"/> to discouer any thing heereof vnto those that lay fortified in the <hi>Barricadoes.</hi> Thus leauing the dead bodies of the hors-mē in the wood, &amp; taking some of their horsses, the Gouernor &amp; sir <hi>Roger VVilliams</hi> passed along to <hi>Cinque Saunce,</hi> &amp; being come thether before noone, they descried the enemy with their Ensignes displaied within their fortification. But the Gouernour of <hi>Deepe,</hi> perceiuing their forti<g ref="char:EOLhyphen"/>fication to be wonderful strong, alleaged that it was vnpossible to enter it, &amp; therefore per<g ref="char:EOLhyphen"/>swaded sir <hi>Roger</hi> to goe back againe, and the rather considering that the enemie was two to their one.</p>
+            <p>But sir <hi>Roger</hi> who hath alwaies borne an vndaunted minde, and known to be a man greatly approued in such Martiall attempts, replyed, saying, that it were a great dishonor for him so to do, wherefore he chose to haue sette vpon them with his own three hundred men, though it should cost both him &amp; them their liues, rather then to shrinke from them, or to be daunted by their great countenance of strength, without attempting to enter thē,
+<pb n="18" facs="tcp:176924:9"/> considering they were neere in sight one of another, and with this resolution aduaunced his colours, marched towards them, meaning himselfe wyth his small company, by the assi<g ref="char:EOLhyphen"/>stance of God, vpon whom he onely trusted, eyther to enter and surprise them, or els to lose his life in that place.</p>
+            <p>The Gouernour of <hi>Deepe,</hi> seeing the braue and most honourable resolution of Sir <hi>Roger,</hi> was wonderfully encouraged to the enter<g ref="char:EOLhyphen"/>prise, and thereuppon protested to take part also in the saide attempt with his 4. hundred souldiours, whatsoeuer shold chaunce or be<g ref="char:EOLhyphen"/>tide vnto him, and thereuppon displaied hys Ensigne, and together with Sir <hi>Roger,</hi> vowed by Gods assistance to enter the <hi>Barricadoes,</hi> and to charge vpon the enemie. Whereupon the Gouernour cheered vp his souldiours, &amp; willed thē to fight in the behalfe of their law<g ref="char:EOLhyphen"/>ful King, whose right they were bound to de<g ref="char:EOLhyphen"/>fend, &amp; whose right doubtles Almighty God wil prosper to the confusion of his enemies.</p>
+            <p>Sir <hi>Roger VVilliams</hi> also in very louing and familiar sort, as his vsuall custome is, cheered
+<pb n="19" facs="tcp:176924:9"/> vp his Souldiours, and vttered vnto them this effectuall speech following.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <head>The speech which Sir <hi>Roger Williams</hi> deliuered vnto his Souldiours, before hee entred or begun the assault on the enemies and Leagors at <hi>Cinque Saunce.</hi>
+                        </head>
+                        <p>MY welbeloued souldiours, freends, and Countrimen, know that those on whō we presently purpose to charge, are people of great skill, sufficiently trained vp in Martiall Discipline, stout, hardy, and approo<g ref="char:EOLhyphen"/>ued in wars: and that it is our greater honour to deale with thē, the one Regiment of these souldiours are of <hi>Lorrayne,</hi> which is the prin<g ref="char:EOLhyphen"/>cipallest strength &amp; faction appertaining to the house of <hi>Guise,</hi> or Legors, &amp; the other re<g ref="char:EOLhyphen"/>giment are gouerned by a Captaine of great valour, who wil hazard hys life in the defence of hys cause: yet forasmuch as theyr cause is bad, no doubt their successe in the ende can<g ref="char:EOLhyphen"/>not be good, howsoeuer it fall out with vs at this present, they beeing two to one of vs.</p>
+                        <p>Neuerthelesse consider, that in troth they are but Traytors to their King, they are also
+<pb n="20" facs="tcp:176924:10"/> disturbers of the state, and vpholders of such as are like themselues, euen Arch-traytors: who to depriue the King of life and dignitie, enscence and perswade these to take parts in theyr behalfe, thereby to vsurpe the Crowne and estate, contrary to right, law &amp; dutie: for which, they not onely deserue sharpe death in this world, but also in the worlde to come, vtter destruction. And although they be far stronger in power then we, yet let vs put our trust in the Lord, and hee no doubt will fight for vs, yea it is that God that doubtlesse figh<g ref="char:EOLhyphen"/>teth still for the faithfull, &amp; strengtheneth the weaker sort if they trust vpō him: God hath from time to time daunted the harts of tray<g ref="char:EOLhyphen"/>tors, hee striketh terror and feare into theyr harts, &amp; that with such suddaine amazement, that commonly they are constrained to flye, and run stragling as sheepe without a sheep<g ref="char:EOLhyphen"/>heard: what know we if it be the pleasure of God to deale so fauourably with vs, as to de<g ref="char:EOLhyphen"/>liuer our enemies this day into our handes? no doubt if we doe put our trust in him, hee wil not suffer one haire of our head to perish:
+<pb n="21" facs="tcp:176924:10"/> yea, he hath promised to the faithfull belee<g ref="char:EOLhyphen"/>uers in him, that he will treade their enemies in the dust.</p>
+                        <p>Let vs therefore pray vnto him, and put our trust in him, &amp; then we neede not doubt of the victory, notwithstanding their skyll, strength &amp; courage, for God fighteth for vs, and therefore doubtlesse we shall preuaile a<g ref="char:EOLhyphen"/>gainst them.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Thus doone, they prayed toge<g ref="char:EOLhyphen"/>ther hartily (to God) vpō their knees, to giue them the vpper hand ouer their enemies.</p>
+            <p>After they had prayed vnto Almighty God, and promised each to other, either to vanquish the enemie, or to die euery man at the others feete, rather then they would flye one foote: they immediatlie refreshed thē<g ref="char:EOLhyphen"/>selues with such victuall as they had, and then marched forwarde with great courage, displayed their Ensignes, strooke vppe theyr Drums, &amp; with their Trumpets sounded de<g ref="char:EOLhyphen"/>fiance to the enemies face. Thus with an vn<g ref="char:EOLhyphen"/>daunted resolution, the valiant English Soul<g ref="char:EOLhyphen"/>diours gaue a fierce charge vpon the enemy, &amp; did assault them in such sorte, as if they had
+<pb n="22" facs="tcp:176924:11"/> not trauailed al night, or skirmished with any other before their cōming thither. This fight continued two houres space, in which tyme, much powder &amp; shotte was spent against the <hi>Barricadoes,</hi> into which the Souldiours by strong hand valiantly entred, Sir <hi>Roger</hi> being one of the formost, who buckled and fought hand to hand with the principal Gouernours of the enemies souldiours: against whom also the Gouernour of <hi>Deepe</hi> issuing, did valiantly behaue himselfe. In the ende, such was the good successe of the English souldiours by stil hartening on the French-men, that the ene<g ref="char:EOLhyphen"/>mies were constrained to turne their backes, being not able to fight any longer, or to flye from them, by reason they were all enclosed within the compasse of the <hi>Barricadoes,</hi> as if it had been in a stone wall. Thus did the Eng<g ref="char:EOLhyphen"/>lish and French souldiours put those two Re<g ref="char:EOLhyphen"/>giments of souldiours to the sworde, suffering none to escape aliue.</p>
+            <p>After it had pleased God to giue them this happy victory, they humbly vpon their knees gaue thanks vnto him for the same, singing
+<pb n="23" facs="tcp:176924:11"/> Psalmes of prayse to the Highest, for prospe<g ref="char:EOLhyphen"/>ring them in their enterprise, acknowledging that it was the outstretched Arme of GOD which had brought this miraculous thing to passe.</p>
+            <p>In thys battaile sir <hi>Roger</hi> and the Gouer<g ref="char:EOLhyphen"/>nour of <hi>Deepe</hi> lost very fewe men, for in al, there was not slain of their side aboue eleuen men, besides a few that were hurt, and in such sort, as that they are like soone to be cured.</p>
+            <p>The Generals heereupon tooke order, not to stay at a<g ref="char:EOLhyphen"/>nie hand, but speedily to returne againe to <hi>Deepe,</hi> suspec<g ref="char:EOLhyphen"/>ting, least some fresh supply should come from <hi>Roan</hi> vp<g ref="char:EOLhyphen"/>pon them, or by casting about, meete them in the midway homeward: and therefore gaue order immediatly that the Souldiours should leaue their spoyle behind them, to the ende they might not ouer-charge themselues with carri<g ref="char:EOLhyphen"/>age: to which they were obedient, taking nothing with them, but those things which were light &amp; easie of carri<g ref="char:EOLhyphen"/>age. Thus they returned safely to <hi>Deepe,</hi> without carry<g ref="char:EOLhyphen"/>ing, shewing therein a notable fore-sight that Sir <hi>Roger</hi> had to preuent the comming of the enemie: who as it is credibly reported, came with a great power to meete thē in the midst of the high way, but Sir <hi>Roger</hi> &amp; his troupes, were gone past foure houres before; by meanes whereof, the Enemie (God be thanked) was preuented of his pur<g ref="char:EOLhyphen"/>pose, and lost his labour.</p>
+         </div>
+         <trailer>FINIS.
+<pb facs="tcp:176924:12"/>
+            <pb facs="tcp:176924:12"/>
+         </trailer>
+      </body>
+   </text>
+</TEI>
